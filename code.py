@@ -8,7 +8,7 @@ def draw_outline(roi_image, mask):
     return img
 
 def main():
-    input_path = "TEST IMAGES/4.jpg"
+    input_path = "YOUR IMAGE PATH"
 
     while True:
 
